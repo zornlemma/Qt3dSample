@@ -1,0 +1,4 @@
+pydantic==1.10.2
+PySide2==5.15.2.1
+shiboken2==5.15.2.1
+typing_extensions==4.4.0
